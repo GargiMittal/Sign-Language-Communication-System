@@ -1,0 +1,9 @@
+tk
+opencv-python
+cvzone
+numpy
+mediapipe
+pyttsx3
+SpeechRecognition
+youtube-transcript-api
+pillow
