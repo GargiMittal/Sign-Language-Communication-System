@@ -3,6 +3,7 @@
 **Signease** is a user-friendly desktop application that brings together multiple American Sign Language (ASL) translation tools into a single interface.
 
 ---
+![demo image](interface.png)
 
 ## 💡 Features
 
