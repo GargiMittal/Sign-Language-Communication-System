@@ -1,4 +1,4 @@
-# 🧏‍♀️ Signease: Unified ASL Translator Hub
+# Signease: Unified ASL Translator Hub
 
 **Signease** is a user-friendly desktop application that brings together multiple American Sign Language (ASL) translation tools into a single interface.
 
