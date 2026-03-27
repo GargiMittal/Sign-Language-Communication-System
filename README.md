@@ -3,7 +3,7 @@
 **Signease** is a user-friendly desktop application that brings together multiple American Sign Language (ASL) translation tools into a single interface.
 
 ---
-![demo image](interface.png)
+![presentation image](SampleImages/1.png)
 
 ## 💡 Features
 
@@ -92,6 +92,20 @@ Then select one of the translator tools from the GUI.
 - Ensure your webcam and microphone are properly connected.
 - Store ASL sign videos for each alphabet as `A.mp4`, `B.mp4`, ... inside a folder named `gifs/`.
 - Trained model and label files should be inside the `M/` directory.
+
+---
+## 🖼️ Gallery
+
+<p align="center">
+  <img src="SampleImages/interface.png" width="45%" />
+  <img src="SampleImages/2.png" width="45%" /><br>
+  <img src="SampleImages/3.png" width="45%" />
+  <img src="SampleImages/4.png" width="45%" /><br>
+   <img src="SampleImages/5.png" width="45%" />
+  <img src="SampleImages/6.png" width="45%" /><br>
+ <img src="SampleImages/7.png" width="45%" />
+
+</p>
 
 ---
 
